@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/hirejoshhall/static/css/main.5f361e03.chunk.css",
-    "main.js": "/hirejoshhall/static/js/main.e90008f6.chunk.js",
-    "main.js.map": "/hirejoshhall/static/js/main.e90008f6.chunk.js.map",
-    "runtime-main.js": "/hirejoshhall/static/js/runtime-main.a78ccddd.js",
-    "runtime-main.js.map": "/hirejoshhall/static/js/runtime-main.a78ccddd.js.map",
-    "static/js/2.4e68cf20.chunk.js": "/hirejoshhall/static/js/2.4e68cf20.chunk.js",
-    "static/js/2.4e68cf20.chunk.js.map": "/hirejoshhall/static/js/2.4e68cf20.chunk.js.map",
-    "index.html": "/hirejoshhall/index.html",
-    "precache-manifest.a1c89cd4bd342c6a3f8ec6be954d861c.js": "/hirejoshhall/precache-manifest.a1c89cd4bd342c6a3f8ec6be954d861c.js",
-    "service-worker.js": "/hirejoshhall/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/hirejoshhall/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4e68cf20.chunk.js.LICENSE.txt": "/hirejoshhall/static/js/2.4e68cf20.chunk.js.LICENSE.txt",
-    "static/media/PowerBody.JPG": "/hirejoshhall/static/media/PowerBody.da6630a3.JPG",
-    "static/media/Travelsite.JPG": "/hirejoshhall/static/media/Travelsite.dbbb95f0.JPG",
-    "static/media/aboutMeButton.svg": "/hirejoshhall/static/media/aboutMeButton.5f57f604.svg",
-    "static/media/contactButton.svg": "/hirejoshhall/static/media/contactButton.a2353b04.svg",
-    "static/media/github.svg": "/hirejoshhall/static/media/github.2a416c34.svg",
-    "static/media/homeButton.svg": "/hirejoshhall/static/media/homeButton.065f7231.svg",
-    "static/media/izuddin-h-bg.jpg": "/hirejoshhall/static/media/izuddin-h-bg.405ec938.jpg",
-    "static/media/projectButton.svg": "/hirejoshhall/static/media/projectButton.aa4ad851.svg"
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.40994763.chunk.js",
+    "main.js.map": "/static/js/main.40994763.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2a41c559.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2a41c559.js.map",
+    "static/js/2.d254d98f.chunk.js": "/static/js/2.d254d98f.chunk.js",
+    "static/js/2.d254d98f.chunk.js.map": "/static/js/2.d254d98f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e6d6d6c4bde280df5e31be20b5caad2b.js": "/precache-manifest.e6d6d6c4bde280df5e31be20b5caad2b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d254d98f.chunk.js.LICENSE.txt": "/static/js/2.d254d98f.chunk.js.LICENSE.txt",
+    "static/media/PowerBody.JPG": "/static/media/PowerBody.da6630a3.JPG",
+    "static/media/Travelsite.JPG": "/static/media/Travelsite.dbbb95f0.JPG",
+    "static/media/aboutMeButton.svg": "/static/media/aboutMeButton.5f57f604.svg",
+    "static/media/contactButton.svg": "/static/media/contactButton.a2353b04.svg",
+    "static/media/github.svg": "/static/media/github.2a416c34.svg",
+    "static/media/homeButton.svg": "/static/media/homeButton.065f7231.svg",
+    "static/media/izuddin-h-bg.jpg": "/static/media/izuddin-h-bg.405ec938.jpg",
+    "static/media/projectButton.svg": "/static/media/projectButton.aa4ad851.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a78ccddd.js",
-    "static/js/2.4e68cf20.chunk.js",
+    "static/js/runtime-main.2a41c559.js",
+    "static/js/2.d254d98f.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e90008f6.chunk.js"
+    "static/js/main.40994763.chunk.js"
   ]
 }
