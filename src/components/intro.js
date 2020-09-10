@@ -27,7 +27,7 @@ function Intro() {
   return (
     <IntroDiv>
       <ContentDiv>
-        <TextDiv>Hi.</TextDiv>
+        <TextDiv>Hello.</TextDiv>
         <TextDiv>I'm Josh</TextDiv>
         <SmallTextDiv class="test">A Web Developer</SmallTextDiv>
         <SmallTextDiv>From St. Louis, Missouri</SmallTextDiv>
