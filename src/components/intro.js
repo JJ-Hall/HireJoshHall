@@ -28,7 +28,7 @@ function Intro() {
     <IntroDiv>
       <ContentDiv>
         <TextDiv>Hi.</TextDiv>
-        <TextDiv>I'm Josha</TextDiv>
+        <TextDiv>I'm Josh</TextDiv>
         <SmallTextDiv class="test">A Web Developer</SmallTextDiv>
         <SmallTextDiv>From St. Louis, Missouri</SmallTextDiv>
       </ContentDiv>
