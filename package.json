@@ -1,6 +1,6 @@
 {
-  "homepage": "http://JJ-Hall.github.io/HireJoshHall/",
-  "name": "HireJoshHalla",
+  "homepage": "http://JJ-Hall.github.io/HireJoshHall",
+  "name": "HireJoshHall",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
