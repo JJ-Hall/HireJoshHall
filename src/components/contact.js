@@ -48,11 +48,14 @@ function ContactForm() {
           Please Feel Free To Contact Me With Any Questions Or Job opportunities
         </TextDiv>
         <ContactForms>
-          <ContactText href="mailto:joshhall1991@gmail.com" target="_blank">
+          <ContactText href="mailto:HireJoshHall@gmail.com" target="_blank">
             Send an Email
           </ContactText>
 
-          <ContactText href="https://www.linkedin.com" target="_blank">
+          <ContactText
+            href="https://www.linkedin.com/in/josh-hall-657a881b4/"
+            target="_blank"
+          >
             Connect on LinkedIn
           </ContactText>
         </ContactForms>
