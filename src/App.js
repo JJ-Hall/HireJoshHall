@@ -52,10 +52,10 @@ function App() {
           </ButtonDiv>
           <Header />
           <Switch>
-            <Route path="/" component={Intro} exact />
-            <Route path="/about" component={About} />
-            <Route path="/projects" component={Projects} />
-            <Route path="/contact" component={Contact} />
+            <Route path="/hirejoshhall/" component={Intro} exact />
+            <Route path="/hirejoshhall/about" component={About} />
+            <Route path="/hirejoshhall/projects" component={Projects} />
+            <Route path="/hirejoshhall/contact" component={Contact} />
           </Switch>
         </ContainerDiv>
       </ThemeProvider>
