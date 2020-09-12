@@ -52,7 +52,7 @@ function App() {
           </ButtonDiv>
           <Header />
           <Switch>
-            <Route path="/" component={Intro} exact />
+            <Route path="/HireJoshHall/" component={Intro} exact />
             <Route path="/HireJoshHall/about" component={About} />
             <Route path="/HireJoshHall/projects" component={Projects} />
             <Route path="/HireJoshHall/contact" component={Contact} />
