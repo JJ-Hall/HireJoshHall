@@ -25,6 +25,7 @@ const ProjectCardDiv = styled.div`
   display: flex;
   // margin: auto;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 `;
 
 function Projects() {
