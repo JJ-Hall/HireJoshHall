@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import ProjectCard from "./projectCard";
 import TravelSiteImg from "../images/Travelsite.JPG";
-import PowerBodyImg from "../images/PowerBody.JPG";
+import UsaFitnessImg from "../images/UsaFitness.JPG";
 
 const ProjectDiv = styled.div`
   height: 100vh;
@@ -39,7 +39,7 @@ function Projects() {
             backgroundColor="rgba(184, 35, 35, .5)"
             color="white"
             href="https://test.zachhall.me/"
-            src={PowerBodyImg}
+            src={UsaFitnessImg}
             alt="Local Gym Website"
             title="Local Gym Website"
             info="Redesigned Local Gym Website"
