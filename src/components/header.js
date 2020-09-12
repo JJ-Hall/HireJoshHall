@@ -55,13 +55,13 @@ function Header() {
         <Link to="/">
           <SiteImg src={HomeButton} alt="Home button" title="Home" />
         </Link>
-        <Link to="/HireJoshHall/about">
+        <Link to="/about">
           <SiteImg src={AboutButton} alt="About button" title="About" />
         </Link>
-        <Link to="/HireJoshHall/projects">
+        <Link to="/projects">
           <SiteImg src={ProjectButton} alt="Projects button" title="Projects" />
         </Link>
-        <Link to="/HireJoshHall/contact">
+        <Link to="/contact">
           <SiteImg src={ContactButton} alt="Contact button" title="Contact" />
         </Link>
       </SiteLinksDiv>

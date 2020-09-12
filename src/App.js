@@ -53,9 +53,9 @@ function App() {
           <Header />
           <Switch>
             <Route exact={true} path="/" component={Intro} />
-            <Route path="/HireJoshHall/about" component={About} />
-            <Route path="/HireJoshHall/projects" component={Projects} />
-            <Route path="/HireJoshHall/contact" component={Contact} />
+            <Route path="/about" component={About} />
+            <Route path="/projects" component={Projects} />
+            <Route path="/contact" component={Contact} />
           </Switch>
         </ContainerDiv>
       </ThemeProvider>
