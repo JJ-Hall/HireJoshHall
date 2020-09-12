@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45e48678dbed31b1cd03e3212870aa7c",
+    "revision": "49973c3caeb2005f4ed4bbe4f301a36d",
     "url": "/index.html"
   },
   {
-    "revision": "48b98161ff8c62c5ee34",
+    "revision": "1a9a16a1ea211f4ca990",
     "url": "/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,16 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.6b3f3224.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "48b98161ff8c62c5ee34",
-    "url": "/static/js/main.3cb38aef.chunk.js"
+    "revision": "1a9a16a1ea211f4ca990",
+    "url": "/static/js/main.9d988103.chunk.js"
   },
   {
     "revision": "c6da47bcf3289923ef3d",
     "url": "/static/js/runtime-main.2a41c559.js"
-  },
-  {
-    "revision": "da6630a36848215f2cbe6b7f941def30",
-    "url": "/static/media/PowerBody.da6630a3.JPG"
   },
   {
     "revision": "bbe8bae99784380b4658b3070b983cb5",
@@ -34,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dbbb95f01e3b5711d388edca216fb0ae",
     "url": "/static/media/Travelsite.dbbb95f0.JPG"
+  },
+  {
+    "revision": "7d9d91d13f663de107987e30674da7d6",
+    "url": "/static/media/UsaFitness.7d9d91d1.JPG"
   },
   {
     "revision": "5f57f6045b8b936a1d23dfe1952fb59c",

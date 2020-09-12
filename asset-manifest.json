@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.3cb38aef.chunk.js",
-    "main.js.map": "/static/js/main.3cb38aef.chunk.js.map",
+    "main.js": "/static/js/main.9d988103.chunk.js",
+    "main.js.map": "/static/js/main.9d988103.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2a41c559.js",
     "runtime-main.js.map": "/static/js/runtime-main.2a41c559.js.map",
     "static/js/2.6b3f3224.chunk.js": "/static/js/2.6b3f3224.chunk.js",
     "static/js/2.6b3f3224.chunk.js.map": "/static/js/2.6b3f3224.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0d5a9c879a99daee9ba23348260e747b.js": "/precache-manifest.0d5a9c879a99daee9ba23348260e747b.js",
+    "precache-manifest.472ff4c8fde521f98fba02a2b4a9b96d.js": "/precache-manifest.472ff4c8fde521f98fba02a2b4a9b96d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.6b3f3224.chunk.js.LICENSE.txt": "/static/js/2.6b3f3224.chunk.js.LICENSE.txt",
-    "static/media/PowerBody.JPG": "/static/media/PowerBody.da6630a3.JPG",
     "static/media/Resume.pdf": "/static/media/Resume.bbe8bae9.pdf",
     "static/media/Travelsite.JPG": "/static/media/Travelsite.dbbb95f0.JPG",
+    "static/media/UsaFitness.JPG": "/static/media/UsaFitness.7d9d91d1.JPG",
     "static/media/aboutMeButton.svg": "/static/media/aboutMeButton.5f57f604.svg",
     "static/media/contactButton.svg": "/static/media/contactButton.a2353b04.svg",
     "static/media/github.svg": "/static/media/github.2a416c34.svg",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.2a41c559.js",
     "static/js/2.6b3f3224.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3cb38aef.chunk.js"
+    "static/js/main.9d988103.chunk.js"
   ]
 }
