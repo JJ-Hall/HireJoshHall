@@ -52,7 +52,7 @@ function Header() {
   return (
     <HeaderDiv>
       <SiteLinksDiv>
-        <Link to="/HireJoshHall/">
+        <Link to="/">
           <SiteImg src={HomeButton} alt="Home button" />
         </Link>
         <Link to="/HireJoshHall/about">
