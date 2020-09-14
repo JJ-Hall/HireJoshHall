@@ -23,7 +23,7 @@ const ProjectsTextDiv = styled.div`
 
 const ProjectCardDiv = styled.div`
   display: flex;
-  // margin: auto;
+  margin: auto;
   justify-content: space-evenly;
   flex-wrap: wrap;
 `;
