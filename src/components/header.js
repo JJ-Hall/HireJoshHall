@@ -20,13 +20,14 @@ const SiteLinksDiv = styled.div`
   display: flex;
   flex-direction: column;
   height: 80%;
+  padding-top: 5%;
 `;
 
 const ExternalLinkDiv = styled.div`
-  display: flex;
+  // display: flex;
   position: absolute;
-  bottom: 3%;
-  color: red;
+  left: 0.5%;
+  margin-top: 1%;
 `;
 
 const SiteImg = styled.img`
