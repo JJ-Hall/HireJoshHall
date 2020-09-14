@@ -8,13 +8,11 @@ import GithubButton from "../images/github.svg";
 import { BrowserRouter as Router, Link } from "react-router-dom";
 
 const HeaderDiv = styled.div`
-  // border: solid;
   display: flex;
-  justify-content: center;
-  width: 3vw;
+  width: 100vw;
   height: 100vh;
   position: fixed;
-  // background: rgba(175, 175, 175, 0.3);
+  padding-left: 1%;
 `;
 
 const SiteLinksDiv = styled.div`
@@ -26,10 +24,7 @@ const SiteLinksDiv = styled.div`
 
 const ExternalLinkDiv = styled.div`
   display: flex;
-  // height: 1%;
-  justify-content: center;
   position: absolute;
-  right: 0;
   bottom: 3%;
   color: red;
 `;
