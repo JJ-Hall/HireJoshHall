@@ -13,6 +13,7 @@ const ProjectDiv = styled.div`
 
 const ProjectsLayout = styled.div`
   text-align: center;
+  // margin: auto;
 `;
 
 const ProjectsTitle = styled.h1``;
@@ -23,9 +24,14 @@ const ProjectsTextDiv = styled.div`
 
 const ProjectCardDiv = styled.div`
   display: flex;
+  width: 100vw;
   margin: auto;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  // @media (max-width: 600px) {
+  //   display: flex;
+  //   flex-direction: column;
+  // } ;
 `;
 
 function Projects() {

@@ -23,7 +23,6 @@ const SiteLinksDiv = styled.div`
 `;
 
 const ExternalLinkDiv = styled.div`
-  // display: flex;
   position: absolute;
   left: 0;
   padding-left: 6px;
