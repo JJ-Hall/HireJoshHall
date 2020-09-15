@@ -9,7 +9,6 @@ import { BrowserRouter as Router, Link } from "react-router-dom";
 
 const HeaderDiv = styled.div`
   display: flex;
-  width: 100vw;
   height: 100vh;
   position: fixed;
   padding-left: 1%;
@@ -19,15 +18,16 @@ const SiteLinksDiv = styled.div`
   justify-content: space-evenly;
   display: flex;
   flex-direction: column;
-  height: 80%;
+  height: 100%;
   padding-top: 5%;
 `;
 
 const ExternalLinkDiv = styled.div`
   // display: flex;
   position: absolute;
-  left: 0.5%;
-  margin-top: 1%;
+  left: 0;
+  padding-left: 6px;
+  margin-top: 10px;
 `;
 
 const SiteImg = styled.img`
